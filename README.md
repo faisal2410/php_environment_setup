@@ -1,12 +1,19 @@
 # Agenda : Environment Setup for PHP
 >> Topics :
-1.Laragon Installation 
+1.Laragon Installation
+>> 
 2.PHP Installation
+
 3.Setting Up PHP Environment Variables
+
 3.phpMyAdmin Installation
+
 4.How to add another version of PHP?
+
 5.How to run PHP file in the web server?
+
 6.How to run PHP file in Command line?
+
 7.How to start an interactive shell for php?
 
 ______

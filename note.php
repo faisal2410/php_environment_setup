@@ -39,3 +39,8 @@
 // laragon/bin/php
 
 // Edit the system Environment variables
+
+
+// ✅👉 Github Repository Link
+
+// https://github.com/faisal2410/php_environment_setup

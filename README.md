@@ -35,17 +35,17 @@ ______
 > https://www.php.net/manual/en/index.php
 
 
-//👉 Important Commands:
+//👉 ## Important Commands:
 
-// php -a
+> php -a
 
-// php -S localhost:8000 hello.php
+> php -S localhost:8000 hello.php
 
-// php hello.php
+> php hello.php
 
-// phpinfo();
+> phpinfo();
 
-// ehco "Hello world";
+> ehco "Hello world";
 
 
 //👉 Misscelaneous Reference 

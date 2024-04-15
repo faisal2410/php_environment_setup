@@ -20,19 +20,19 @@
 
 ______
 
->> //👉 Important Links
+>> ✅✅ ## Important Links
 
-// https://www.php.net/
+> https://www.php.net/
 
-// https://windows.php.net/downloads/releases/
+> https://windows.php.net/downloads/releases/
 
-// https://laragon.org/
+> https://laragon.org/
 
-// https://www.phpmyadmin.net/
+> https://www.phpmyadmin.net/
 
-// https://github.com/leokhoa/laragon/discussions
+> https://github.com/leokhoa/laragon/discussions
 
-// https://www.php.net/manual/en/index.php
+> https://www.php.net/manual/en/index.php
 
 
 //👉 Important Commands:

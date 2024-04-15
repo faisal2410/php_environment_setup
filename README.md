@@ -35,7 +35,7 @@ ______
 > https://www.php.net/manual/en/index.php
 
 
-//👉 ## Important Commands:
+ ## Important Commands:
 
 > php -a
 
@@ -48,19 +48,19 @@ ______
 > ehco "Hello world";
 
 
-//👉 Misscelaneous Reference 
+ ## Miscellaneous Reference 
 
-// tools→quickadd→phpmyadmin
+> tools→quickadd→phpmyadmin
 
-// laragon/etc/apps/phpMyAdmin/config.sample.inc.php
+> laragon/etc/apps/phpMyAdmin/config.sample.inc.php
 
-// search  AllowNoPassword
+> search  AllowNoPassword
 
-// laragon/bin/php
+> laragon/bin/php
 
-// Edit the system Environment variables
+> Edit the system Environment variables
 
 
-// ✅👉 Github Repository Link
+## Github Repository Link
 
-// https://github.com/faisal2410/php_environment_setup
+> https://github.com/faisal2410/php_environment_setup
